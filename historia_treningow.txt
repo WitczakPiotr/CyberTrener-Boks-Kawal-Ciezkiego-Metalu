@@ -1,2 +1,63 @@
 2026-05-13 21:27 - Trening: PODBRODKOWY
 2026-05-13 22:00 - Trening: PROSTY
+2026-06-04 14:49 - Trening: PROSTY
+2026-06-04 14:54 - Trening: PROSTY
+2026-06-04 15:23 - Trening: SIERPOWY
+2026-06-04 15:26 - Trening: SIERPOWY
+2026-06-04 15:29 - Trening: SIERPOWY
+2026-06-04 15:36 - Trening: PROSTY
+2026-06-04 15:41 - Trening: PROSTY
+2026-06-04 15:43 - Trening: PROSTY
+2026-06-04 15:44 - Trening: PROSTY
+2026-06-04 15:44 - Trening: PROSTY
+2026-06-04 15:50 - Trening: PROSTY
+2026-06-04 15:52 - Trening: SIERPOWY
+2026-06-04 15:55 - Trening: PROSTY
+2026-06-04 15:55 - Trening: PROSTY
+2026-06-04 15:59 - Trening: PROSTY
+2026-06-09 18:21 - Trening: TYLKO PROSTE
+2026-06-09 18:26 - Trening: PEŁNY PLAN (6 ciosów)
+2026-06-09 18:31 - Trening: PEŁNY PLAN (6 ciosów)
+2026-06-09 18:32 - Trening: PEŁNY PLAN (6 ciosów)
+2026-06-09 18:34 - Trening: TYLKO PROSTE
+2026-06-09 18:41 - Trening: START TRENINGU (Proste i Sierp)
+2026-06-09 18:45 - Trening: 10x PROSTE
+2026-06-09 18:45 - Trening: MIESZANY (30 ciosów)
+2026-06-09 19:08 - Trening: 10x PROSTE
+2026-06-09 19:09 - Trening: 10x SIERPOWE
+2026-06-09 19:09 - Trening: 10x PODBRÓDKOWE
+2026-06-09 19:10 - Trening: MIESZANY (30 ciosów)
+2026-06-09 19:40 - Trening: MIESZANY (30 ciosów)
+2026-06-10 10:40 - Trening: 10x PODBRÓDKOWE
+2026-06-10 10:45 - Trening: 10x PROSTE
+2026-06-10 10:46 - Trening: 10x SIERPOWE
+2026-06-10 10:47 - Trening: 10x SIERPOWE
+2026-06-11 10:43 - Trening: 10x PROSTE
+2026-06-11 10:46 - Trening: 10x PROSTE
+2026-06-11 10:51 - Trening: 10x SIERPOWE
+2026-06-11 10:52 - Trening: MIESZANY (30 ciosów)
+2026-06-11 11:55 - Trening: MIESZANY (30 ciosów)
+2026-06-11 11:56 - Trening: MIESZANY (30 ciosów)
+2026-06-15 17:15 - Trening: MIESZANY (30 ciosów)
+2026-06-15 17:17 - Trening: MIESZANY (30 ciosów)
+2026-06-15 17:24 - Trening: MIESZANY (30 ciosów)
+2026-06-15 17:30 - Trening: MIESZANY (30 ciosów)
+2026-06-15 17:36 - Trening: MIESZANY (30 ciosów)
+2026-06-15 17:40 - Trening: MIESZANY (30 ciosów)
+2026-06-15 17:45 - Trening: 10x PROSTE
+2026-06-15 17:46 - Trening: 10x SIERPOWE
+2026-06-15 17:48 - Trening: 10x PODBRÓDKOWE
+2026-06-15 17:52 - Trening: MIESZANY (30 ciosów)
+2026-06-15 18:00 - Trening: MIESZANY (30 ciosów)
+2026-06-15 18:02 - Trening: MIESZANY (30 ciosów)
+2026-06-15 18:08 - Trening: MIESZANY (30 ciosów)
+2026-06-15 18:14 - Trening: MIESZANY (30 ciosów)
+2026-06-15 18:25 - Trening: MIESZANY (30 ciosów)
+2026-06-15 18:31 - Trening: 10x PODBRÓDKOWE
+2026-06-15 18:36 - Trening: MIESZANY (30 ciosów)
+2026-06-15 18:42 - Trening: MIESZANY (30 ciosów)
+2026-06-15 18:50 - Trening: MIESZANY (30 ciosów)
+2026-06-15 18:59 - Trening: MIESZANY (30 ciosów)
+2026-06-15 19:09 - Trening: MIESZANY (30 ciosów)
+2026-06-15 19:15 - Trening: MIESZANY (30 ciosów)
+2026-06-15 19:19 - Trening: 10x SIERPOWE
